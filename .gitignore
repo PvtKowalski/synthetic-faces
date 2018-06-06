@@ -1,0 +1,6 @@
+*.pyc
+data_redo.py
+.idea/
+outputs/
+data_samples/
+data_samples.zip
