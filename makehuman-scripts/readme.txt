@@ -1,5 +1,5 @@
 - Add custom random plugin to Makehuman plugin directory.
-- you need to manually psort geometries in folders (see generation script)
+- you need to manually sort geometries in folders (see generation script)
 - Launch Makehuman.
 - ...
 - Paste script to Makehuman scripting tab.
